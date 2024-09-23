@@ -230,6 +230,9 @@ public class DataAccess {
 				">> DataAccess: createRide=> from= " + from + " to= " + to + " driver=" + driverName + " date " + date);
 		if (driverName==null) return null;
 		try {
+			if(from== null || to == null || nPlaces <1 || price <0 ||from== to) {
+				return null;
+			}
 			if (new Date().compareTo(date) > 0) {
 				System.out.println("ppppp");
 				throw new RideMustBeLaterThanTodayException(
