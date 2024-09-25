@@ -1,5 +1,5 @@
-- Taldeko kideak:
-	Urtzi Espinosa(Scrum Masterra), Unax Amunarriz eta Zuriñe Behobide
+SI2 ikasgaiko proiektua
 
-- Bideo baten link-a proiektuaren analisi/disenuarekin, garapena eta demoarekin (gehienez 10’).
-	https://www.youtube.com/watch?v=JyPL2yxF3aI
+
+- Taldeko kideak:
+	Xabier Saiz, Ander Arruti eta Adei Tamayo
